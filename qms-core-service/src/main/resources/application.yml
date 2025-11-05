@@ -1,0 +1,2 @@
+#loader:
+#  path: BOOT-INF/lib/,BOOT-INF/classes/,lib/
